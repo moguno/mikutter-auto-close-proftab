@@ -5,7 +5,7 @@ depends:
   plugin:
   - settings
   - gui
-version: '0.0.1'
+version: '0.0.2'
 author: 
 name: mikutter-auto-close-proftab
 description: プロファイルタブを一定時間で自動的に閉じる様にします。
